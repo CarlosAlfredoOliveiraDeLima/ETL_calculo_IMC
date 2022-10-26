@@ -6,3 +6,19 @@
 19:07:03__26-Oct-2022,Fase de carregamento e persistência de dados iniciada
 19:07:03__26-Oct-2022,Fase de carregamento e persistência de dados finalizada
 19:07:03__26-Oct-2022,Processo de ETL finalizado
+19:42:43__26-Oct-2022,ETL iniciado
+19:42:43__26-Oct-2022,Fase de extração dos dados iniciada
+19:42:43__26-Oct-2022,Fase de extração de dados finalizada
+19:42:43__26-Oct-2022,Fase de transformação de dados iniciada
+19:42:43__26-Oct-2022,Fase de transformação de dados finalizada
+19:42:43__26-Oct-2022,Fase de carregamento e persistência de dados iniciada
+19:42:43__26-Oct-2022,Fase de carregamento e persistência de dados finalizada
+19:42:43__26-Oct-2022,Processo de ETL finalizado
+19:42:56__26-Oct-2022,ETL iniciado
+19:42:56__26-Oct-2022,Fase de extração dos dados iniciada
+19:42:56__26-Oct-2022,Fase de extração de dados finalizada
+19:42:56__26-Oct-2022,Fase de transformação de dados iniciada
+19:42:56__26-Oct-2022,Fase de transformação de dados finalizada
+19:42:56__26-Oct-2022,Fase de carregamento e persistência de dados iniciada
+19:42:56__26-Oct-2022,Fase de carregamento e persistência de dados finalizada
+19:42:56__26-Oct-2022,Processo de ETL finalizado
