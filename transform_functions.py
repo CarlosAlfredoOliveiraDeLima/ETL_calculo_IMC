@@ -24,8 +24,10 @@ def measurement_converter(data):
 
 
 def BMI_calculator(data):
-    data['BMI'] = round((data.weight / (data.height ** data.height)), 2)
-    
+    #data['BMI'] = round((data.weight / (data.height ** data.height)), 2)
+    data['BMI'] = round((data['weight'] / (data['height'] ** 2)), 2)
+    return data
+
 
 def transform(data):
     data = data_cleaning(data)
